@@ -1,0 +1,9 @@
+{
+  "name": "fableplan",
+  "version": "0.1.0",
+  "description": "Plan with Fable 5, execute with Sonnet. Adds /fableplan to toggle an opusplan-style dual-model configuration.",
+  "author": {
+    "name": "bama73000",
+    "email": "bama73000@gmail.com"
+  }
+}

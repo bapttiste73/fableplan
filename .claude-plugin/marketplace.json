@@ -1,0 +1,14 @@
+{
+  "name": "fableplan",
+  "owner": {
+    "name": "bama73000",
+    "email": "bama73000@gmail.com"
+  },
+  "plugins": [
+    {
+      "name": "fableplan",
+      "source": "./plugins/fableplan",
+      "description": "Plan with Fable 5, execute with Sonnet — an opusplan-style dual-model setup for Claude Code."
+    }
+  ]
+}
